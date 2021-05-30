@@ -6,7 +6,9 @@ namespace RoMa\Excel\Test\Fixture;
 use Cake\TestSuite\Fixture\TestFixture;
 
 /**
- * UsersFixture
+ * Class UsersFixture
+ *
+ * @package RoMa\Excel\Test\Fixture
  */
 class UsersFixture extends TestFixture
 {
